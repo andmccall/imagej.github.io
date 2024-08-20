@@ -52,10 +52,10 @@ To help describe the results, we will use the simple, idealized example shown be
 
 {% include gallery content=
 "
-/media/plugins/colocbycorrelate-originalslides.jpg | Composite of images analyzed
-/media/plugins/colocbycorrelate-correlationplot.jpg | Radial profile
-/media/plugins/colocbycorrelate-gaussfit.jpg | Gaussian fit result
-/media/plugins/colocbycorrelate-contributionslide1.jpg | Composit image of Gaussian fit contributions
+/media/plugins/ccc/colocbycorrelate-originalslides.jpg | Composite of images analyzed
+/media/plugins/ccc/colocbycorrelate-correlationplot.jpg | Radial profile
+/media/plugins/ccc/colocbycorrelate-gaussfit.jpg | Gaussian fit result
+/media/plugins/ccc/colocbycorrelate-contributionslide1.jpg | Composit image of Gaussian fit contributions
 "
 %}
 
@@ -131,9 +131,9 @@ First, this plugin applies the provided mask to both images, setting any pixels 
 
 {% include gallery content=
 "
-/media/plugins/colocbycorrelateextra-original.jpg | Initial, unmodified cross-correlogram
-/media/plugins/colocbycorrelateextra-subtracted.jpg | Cross-correlogram  after subtraction of low frequency component
-/media/plugins/colocbycorrelateextra-gaussmodified.jpg | Gaussian-fit modified cross-correlogram
+/media/plugins/ccc/colocbycorrelateextra-original.jpg | Initial, unmodified cross-correlogram
+/media/plugins/ccc/colocbycorrelateextra-subtracted.jpg | Cross-correlogram  after subtraction of low frequency component
+/media/plugins/ccc/colocbycorrelateextra-gaussmodified.jpg | Gaussian-fit modified cross-correlogram
 "
 %}
 
